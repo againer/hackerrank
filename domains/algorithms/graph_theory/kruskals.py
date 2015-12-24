@@ -53,4 +53,5 @@ minimum_spanning_tree = set([
             (2, 'B', 'D'),
             (1, 'C', 'D'),
             ])
+
 assert kruskal(graph) == minimum_spanning_tree
